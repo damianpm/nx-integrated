@@ -1,10 +1,7 @@
 {
   "name": "@damianpm/is-even",
-  "version": "0.0.6",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/damianpm/nx-integrated.git"
-  },
+  "version": "0.0.7",
+  "repository": "https://github.com/damianpm/nx-integrated",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",
     "access": "public"
