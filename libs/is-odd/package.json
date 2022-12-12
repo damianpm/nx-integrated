@@ -1,13 +1,14 @@
 {
-  "name": "@damianpm/is-odd",
-  "version": "0.0.2",
+  "name": "@damianpm/is-even",
+  "version": "0.0.6",
   "type": "commonjs",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/damianpm/is-odd.git"
+    "url": "git+https://github.com/damianpm/nx-integrated.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
   },
   "private": false
 }
