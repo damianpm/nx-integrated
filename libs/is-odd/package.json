@@ -1,5 +1,13 @@
 {
-  "name": "@damianperalta/is-odd",
-  "version": "0.0.1",
-  "type": "commonjs"
+  "name": "@damianpm/is-odd",
+  "version": "0.0.2",
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damianpm/is-odd.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "private": false
 }

@@ -1,4 +1,12 @@
 {
-  "name": "@damianperalta/is-even",
-  "version": "0.0.1"
+  "name": "@damianpm/is-even",
+  "version": "0.0.2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damianpm/is-even.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "private": false
 }

@@ -1,4 +1,4 @@
-import { isEven } from '@damianperalta/is-even';
+import { isEven } from '@damianpm/is-even';
 
 export function isOdd(num) {
   return !isEven(num);
